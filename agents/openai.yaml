@@ -1,0 +1,4 @@
+interface:
+  display_name: "新媒体运营简历精修师"
+  short_description: "接收用户原始简历，按项目制和数据闭环输出修正版简历与面试讲述 docx"
+  default_prompt: "帮我改这份新媒体运营简历，按项目制重构经历、校准时间线、质检数据，输出简历和面试讲述两个 docx"

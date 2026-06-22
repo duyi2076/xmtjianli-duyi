@@ -1,0 +1,14 @@
+interface:
+  name: xmtjianli-duyi
+  display_name: 新媒体运营简历精修师（Production）
+  short_description: 接收用户原始简历，按项目制重构、数据闭环、时间线校准输出修正版简历与面试讲述 docx；强制跨行业经历迁移为新媒体运营能力。
+  default_prompt: 帮我改这份新媒体运营简历，按项目制重构经历、校准时间线、质检数据、迁移跨行业能力，输出简历和面试讲述两个 docx
+  tags:
+    - 职场办公
+    - 效率工具
+  mode: production
+  entry_points:
+    - /xmtjianli-duyi
+    - 帮我改简历
+    - 优化这份简历
+    - 把这份简历改成项目制
